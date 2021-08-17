@@ -3,6 +3,17 @@
 ### Project Introduction: 
 This is the first project in Udacity Data Scientist Nanodegree Program.
 
+### Library:
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+sklearn
+wordcloud
+nltk
+string
+warnings
+
 ### Motivation: 
 This project is an exploratory data analysis based on dataset about Seattle Airbnb from kaggle, aiming to answer questions below:
 - Which neighborhood has the best review scores rating?
