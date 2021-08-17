@@ -4,15 +4,15 @@
 This is the first project in Udacity Data Scientist Nanodegree Program.
 
 ### Library:
-numpy
-pandas
-matplotlib.pyplot
-seaborn
-sklearn
-wordcloud
-nltk
-string
-warnings
+numpy <br>
+pandas <br>
+matplotlib.pyplot <br>
+seaborn <br>
+sklearn <br>
+wordcloud <br>
+nltk <br>
+string <br>
+warnings <br>
 
 ### Motivation: 
 This project is an exploratory data analysis based on dataset about Seattle Airbnb from kaggle, aiming to answer questions below:
